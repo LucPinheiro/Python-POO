@@ -1,1 +1,1 @@
-# Python-POO
+# POO: Programación Orientada a Ojectos
